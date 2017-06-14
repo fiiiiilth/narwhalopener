@@ -1,0 +1,9 @@
+Package: com.fiiiiilth.narwhalopener
+Name: NarwhalOpener
+Depends: ws.hbang.libopener (>= 3.1.2)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This is a handler for Opener that opens Reddit links in the Narwhal app. 
+Maintainer: fiiiiilth
+Author: fiiiiilth
+Section: Addons
